@@ -1,4 +1,4 @@
-# T3A2-A - Full Stack App (Part A)
+# T3A2-B - Full Stack App (Part B)
 
 ## Garden Tracker App - *Plantscape*
 ### Joshua Davis, Kal Fung, Benjamin Campbell
