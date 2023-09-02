@@ -267,6 +267,6 @@ The project is managed using Agile methodologies aided by a shared Trello projec
 
 ![routes](./docs/trello-screenshots/routes.png)
 
-![setup](./docs/trello-screenshots/back-end-tests.png)
+![setup](./docs/trello-screenshots/setup.png)
 
-![back-end-tests](./docs/trello-screenshots/bugs.png)
+![back-end-tests](./docs/trello-screenshots/back-end-tests.png)
