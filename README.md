@@ -258,3 +258,15 @@ The project is managed using Agile methodologies aided by a shared Trello projec
 ###### Progress: August 20, 2023
 
 ![trello overview, aug 20, Part A complete, ready to Code!](./docs/trello-screenshots/trello-progress-8-20-23.png)
+
+###### End of Project
+
+![bugs](./docs/trello-screenshots/bugs.png)
+
+![resources](./docs/trello-screenshots/resources.png)
+
+![routes](./docs/trello-screenshots/routes.png)
+
+![setup](./docs/trello-screenshots/back-end-tests.png)
+
+![back-end-tests](./docs/trello-screenshots/bugs.png)
