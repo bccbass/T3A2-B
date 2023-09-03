@@ -19,9 +19,16 @@
 
 1. [Project Management](#Project-Management)
 
+1. [Manual Testing Documentation](#Manual-Testing-Documentation)
+
+
 #### **Project Links:**
-[_• GitHub Repository_](https://github.com/bccbass/T3A2-A)  
+[_• GitHub Repository Part A_](https://github.com/bccbass/T3A2-A)  
+[_• GitHub Repository - Backend_](https://github.com/bccbass/api-plantscape)  
+[_• GitHub Repository - Frontend_](https://github.com/bccbass/client-plantscape)  
 [_• Trello Project Board_](https://trello.com/b/gYwjxwsb/full-stack-app)
+
+
 
 <hr/>
 
@@ -270,3 +277,15 @@ The project is managed using Agile methodologies aided by a shared Trello projec
 ![setup](./docs/trello-screenshots/setup.png)
 
 ![back-end-tests](./docs/trello-screenshots/back-end-tests.png)
+
+### Manual Testing Documentation
+*Manual testing, September 2nd*  
+Helpfully illuminated some undesired functionality and lack of client-side validation and user feedback.
+
+![september 2 manual tests](./docs/manual-test-docs/9-2-test.png)
+
+
+*Manual testing, September 3rd*  
+ Added simple validation and user feedback. Fixed bugs and issues for a better overall user experience.
+
+![september 3 manual tests](./docs/manual-test-docs/9-3-test.png)
