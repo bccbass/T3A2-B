@@ -26,7 +26,18 @@
 [_• GitHub Repository Part A_](https://github.com/bccbass/T3A2-A)  
 [_• GitHub Repository - Backend_](https://github.com/bccbass/api-plantscape)  
 [_• GitHub Repository - Frontend_](https://github.com/bccbass/client-plantscape)  
-[_• Trello Project Board_](https://trello.com/b/gYwjxwsb/full-stack-app)
+[_• Trello Project Board_](https://trello.com/b/gYwjxwsb/full-stack-app)  
+
+#### **Deployed Website:**
+
+[_• Plantscape_](https://plantscape.vercel.app)   
+
+*Login credentials for sample user:*
+```
+email: admin@plantscape.com
+password: admin
+```  
+
 
 
 
